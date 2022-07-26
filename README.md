@@ -54,7 +54,7 @@ Clone the repo in your terminal writting:
  
 #### `$ git clone `
  
-    In the project directory, you can run: ## link do repositorio ##
+    In the project directory, you can run: https://github.com/herbertgaribaldi/netflix-clone-react.git
  
 #### `npm start`
  
@@ -79,5 +79,5 @@ Clone the repo in your terminal writting:
 #### `npm run eject`
 ---
  
-#### <i>All image rights belong to Netflix.
-#### Data taken in <a href={https://www.themoviedb.org/} className='footer-link'>The Movie Database (TMDB).</i>
+###### <i>All image rights belong to Netflix.
+###### Data taken in <a href={https://www.themoviedb.org/} className='footer-link'>The Movie Database (TMDB).</i>
