@@ -11,8 +11,6 @@
 :tv: 3. Navbar which change its color when scroll; <br>
 :tv: 4. Carousel of movies coming from the TMDB API; <br>
  
-<img src="">
- 
 ## :pushpin: Topics
  
 :movie_camera: 1. TMDB API; <br>
