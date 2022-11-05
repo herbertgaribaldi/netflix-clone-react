@@ -1,7 +1,7 @@
 # :tv: NETFLIX clone.
 ---
  
-<img src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" width="auto" heigth="auto" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" width="auto" heigth="auto" />
  
 ---
 ## :bulb: Features
